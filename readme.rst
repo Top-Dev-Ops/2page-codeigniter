@@ -25,6 +25,7 @@ Installation
 
 Copy this source in 'C:\\xampp\\htdocs' folder.
 Run Xampp control and start Apache and mysql server.
+Import tables in the database using database.sql.
 Navigate to `<http://localhost:8000>`_ and enjoy it.
 
 *******
