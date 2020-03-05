@@ -2,7 +2,7 @@
 What is 2page
 ###################
 
-2page is a traffic monitor web application. It was build using PHP CodeIgniter
+2page is a traffic monitor web application. It was built using PHP CodeIgniter
 framework and mysql database as back-end, and HTML and Javascript as front-end.
 
 *******************
